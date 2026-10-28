@@ -1,0 +1,9 @@
+{
+ "name":"terminal-cakrawala-university",
+ "version":"0.2.0",
+ "private":true,
+ "description":"Ruang riset pasar modal dan pembelajaran investasi Cakrawala University",
+ "engines":{"node":">=24"},
+ "scripts":{"start":"node server.js","test":"node tests/test_afl.js && node tests/test_engine.js && node --test tests/regression.test.js","test:browser":"node tests/browser.mjs"},
+ "devDependencies":{"playwright":"1.56.1"}
+}

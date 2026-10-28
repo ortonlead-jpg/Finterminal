@@ -1,0 +1,9 @@
+TradingView Lightweight Charts v4.1.3
+Copyright (c) 2024 TradingView, Inc.
+Licensed under the Apache License, Version 2.0.
+https://www.apache.org/licenses/LICENSE-2.0
+https://github.com/tradingview/lightweight-charts
+
+The original vendored library header is retained in public/lwc.js.
+The application footer includes a TradingView attribution link.
+Playwright is a development-only dependency and is not included in the source archive.
